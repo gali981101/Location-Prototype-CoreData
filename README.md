@@ -1,2 +1,2 @@
 # Location-App
-Small Test Project for MapView and Core Data
+Small test project for MapView and Core Data
